@@ -8,7 +8,12 @@ const Banner = () => {
       style={{ minHeight: "100vh" }}
     >
       <div className="w-1/4 shadow-black border border-8 rounded-xl shadow-2xl ">
-        <img src="sdt.png" alt="" className="w-full" />
+        <img
+          src="sdt.png"
+          alt=""
+          className="w-full "
+          style={{ backgroundColor: " #119dff" }}
+        />
       </div>
       <div className="w-1/2">
         <h1 className="text-4xl">

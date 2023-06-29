@@ -4,7 +4,7 @@ import React from "react";
 const Skill = () => {
   return (
     <div className="" style={{ minHeight: "100vh" }}>
-      <h1 className="text-7xl bold text-center">
+      <h1 className="text-7xl bold text-center mb-20">
         <span className=" border-white border-b-4 ">SKILLS</span>
       </h1>
 
