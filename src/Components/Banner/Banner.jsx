@@ -3,7 +3,10 @@ import { TypeAnimation } from "react-type-animation";
 
 const Banner = () => {
   return (
-    <div className="pt-10 flex justify-around w-full items-center ">
+    <div
+      className="pt-10 flex justify-around w-full items-center "
+      style={{ minHeight: "100vh" }}
+    >
       <div className="w-1/4 shadow-black border border-8 rounded-xl shadow-2xl ">
         <img src="sdt.png" alt="" className="w-full" />
       </div>
@@ -43,36 +46,6 @@ const Banner = () => {
             Download Resume
           </button>
         </a>
-        <div className="flex pt-4">
-          <a href="https://www.facebook.com/mdshahadat2" className="pe-5">
-            <img
-              src="fb.png"
-              alt=""
-              style={{ width: "30px", height: "30px", borderRadius: "50%" }}
-            />
-          </a>
-          <a href="https://github.com/shahadat10033" className="pe-5">
-            <img
-              src="github.png"
-              alt=""
-              style={{ width: "30px", height: "30px", borderRadius: "50%" }}
-            />
-          </a>
-          <a href="" className="pe-5">
-            <img
-              src="linkedin.png"
-              alt=""
-              style={{ width: "30px", height: "30px", borderRadius: "50%" }}
-            />
-          </a>
-          <a href="">
-            <img
-              src="gmail.png"
-              alt=""
-              style={{ width: "30px", height: "30px", borderRadius: "50%" }}
-            />
-          </a>
-        </div>
       </div>
     </div>
   );
