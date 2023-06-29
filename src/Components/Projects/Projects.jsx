@@ -8,7 +8,7 @@ const Projects = () => {
       </h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 w-1/2 mx-auto gap-20">
-        <div className="card max-w-96 bg-[#008080] shadow-xl">
+        <div className="card max-w-96 bg-[#3A83F2] shadow-xl border border-white">
           <figure style={{ height: "200px", overflow: "auto" }}>
             <img src="tongues.png" alt="" />
           </figure>
@@ -23,13 +23,13 @@ const Projects = () => {
               method to the owner.
             </p>
             <div className="card-actions justify-centre">
-              <div className="btn btn-secondary">Live Site</div>
-              <div className="btn btn-secondary">Client Code</div>
-              <div className="btn btn-secondary">Server Code</div>
+              <div className="btn btn-success">Live Site</div>
+              <div className="btn btn-success">Client Code</div>
+              <div className="btn btn-success">Server Code</div>
             </div>
           </div>
         </div>
-        <div className="card max-w-96 bg-[#008080] shadow-xl">
+        <div className="card max-w-96 bg-[#3A83F2] shadow-xl">
           <figure style={{ height: "200px", overflow: "auto" }}>
             <img src="jobOrbit.png" alt="" />
           </figure>
@@ -44,13 +44,13 @@ const Projects = () => {
               •AnyOne can apply job from these website.
             </p>
             <div className="card-actions justify-centre">
-              <div className="btn btn-secondary">Live Site</div>
-              <div className="btn btn-secondary">Client Code</div>
-              <div className="btn btn-secondary">Server Code</div>
+              <div className="btn btn-success">Live Site</div>
+              <div className="btn btn-success">Client Code</div>
+              <div className="btn btn-success">Server Code</div>
             </div>
           </div>
         </div>
-        <div className="card max-w-96 bg-[#008080] shadow-xl">
+        <div className="card max-w-96 bg-[#3A83F2] shadow-xl">
           <figure style={{ height: "200px", overflow: "auto" }}>
             <img src="tasteMeRestaurant.png" alt="" />
           </figure>
@@ -65,13 +65,13 @@ const Projects = () => {
               method of a recipe.
             </p>
             <div className="card-actions justify-centre">
-              <div className="btn btn-secondary">Live Site</div>
-              <div className="btn btn-secondary">Client Code</div>
-              <div className="btn btn-secondary">Server Code</div>
+              <div className="btn btn-success">Live Site</div>
+              <div className="btn btn-success">Client Code</div>
+              <div className="btn btn-success">Server Code</div>
             </div>
           </div>
         </div>
-        <div className="card max-w-96 bg-[#008080] shadow-xl">
+        <div className="card max-w-96 bg-[#3A83F2] shadow-xl">
           <figure style={{ height: "200px", overflow: "auto" }}>
             <img src="kidsToyland.png" alt="" />
           </figure>
@@ -84,9 +84,9 @@ const Projects = () => {
               <br />• A user can see all toy and buy anything he wants.
             </p>
             <div className="card-actions justify-centre">
-              <div className="btn btn-secondary">Live Site</div>
-              <div className="btn btn-secondary">Client Code</div>
-              <div className="btn btn-secondary">Server Code</div>
+              <div className="btn btn-success">Live Site</div>
+              <div className="btn btn-success">Client Code</div>
+              <div className="btn btn-success">Server Code</div>
             </div>
           </div>
         </div>

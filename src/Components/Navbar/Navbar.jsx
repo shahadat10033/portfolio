@@ -10,7 +10,7 @@ import {
 const Navbar = () => {
   return (
     <>
-      <div className="fixed bottom-9  left-1/2 transform -translate-x-1/2   xs:w-3/4 md:w-1/2 rounded-lg flex justify-around align-items-center align-middle  bg-transparent backdrop-filter backdrop-blur-sm">
+      <div className="fixed z-10 bottom-9  left-1/2 transform -translate-x-1/2   xs:w-3/4 md:w-1/2 rounded-2xl flex justify-around align-items-center align-middle  bg-[#3A83F2] ">
         <a href="" className="btn  btn-ghost  normal-case text-xl">
           <FaHouseChimney style={{ color: "white" }} />
         </a>
