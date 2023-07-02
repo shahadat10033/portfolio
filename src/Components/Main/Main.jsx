@@ -6,6 +6,7 @@ import About from "../About/About";
 import Skill from "../Skills/Skill";
 import Projects from "../Projects/Projects";
 import Contact from "../Contact/Contact";
+import Footer from "../Footer/Footer";
 
 const Main = () => {
   return (
@@ -16,7 +17,188 @@ const Main = () => {
       <Skill></Skill>
       <Projects></Projects>
       <Contact></Contact>
+      <Footer></Footer>
 
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
+      <section>
+        <span className="dot"></span>
+      </section>
       <section>
         <span className="dot"></span>
       </section>

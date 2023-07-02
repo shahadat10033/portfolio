@@ -28,47 +28,47 @@ section .dot {
   right: 20%;
 }
 .wrapper section:nth-child(1) {
-  top: 20%;
-  left: 20%;
-  animation: animate 8s linear infinite;
+  top: 5%;
+  left: 5%;
+  animation: animate 9s linear infinite;
 }
 .wrapper section:nth-child(2) {
-  top: 60%;
-  left: 80%;
-  animation: animate 10s linear infinite;
+  top: 5%;
+  right: 5%;
+  animation: animate 9s linear infinite;
 }
 .wrapper section:nth-child(3) {
-  top: 40%;
-  left: 40%;
-  animation: animate 3s linear infinite;
-}
-.wrapper section:nth-child(4) {
-  top: 66%;
-  left: 30%;
-  animation: animate 7s linear infinite;
-}
-.wrapper section:nth-child(5) {
-  top: 90%;
+  top: 10%;
   left: 10%;
   animation: animate 9s linear infinite;
 }
+.wrapper section:nth-child(4) {
+  top: 10%;
+  right: 10%;
+  animation: animate 7s linear infinite;
+}
+.wrapper section:nth-child(5) {
+  top: 12%;
+  left: 12%;
+  animation: animate 9s linear infinite;
+}
 .wrapper section:nth-child(6) {
-  top: 30%;
+  top: 14%;
   left: 60%;
   animation: animate 5s linear infinite;
 }
 .wrapper section:nth-child(7) {
-  top: 70%;
+  top: 18%;
   left: 20%;
   animation: animate 8s linear infinite;
 }
 .wrapper section:nth-child(8) {
-  top: 75%;
+  top: 23%;
   left: 60%;
   animation: animate 10s linear infinite;
 }
 .wrapper section:nth-child(9) {
-  top: 50%;
+  top: 35%;
   left: 50%;
   animation: animate 6s linear infinite;
 }
@@ -89,7 +89,7 @@ section .dot {
 }
 .wrapper section:nth-child(13) {
   top: 20%;
-  right: 20%;
+  right: 10%;
   animation: animate 8s linear infinite;
 }
 .wrapper section:nth-child(14) {
@@ -100,7 +100,307 @@ section .dot {
 .wrapper section:nth-child(15) {
   top: 90%;
   left: 80%;
+  animation: animate 8s linear infinite;
+}
+.wrapper section:nth-child(16) {
+  top: 90%;
+  left: 40%;
+  animation: animate 6s linear infinite;
+}
+.wrapper section:nth-child(17) {
+  top: 34%;
+  left: 87%;
   animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(18) {
+  top: 69%;
+  left: 20%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(19) {
+  top: 23%;
+  left: 10%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(20) {
+  top: 30%;
+  left: 90%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(21) {
+  top: 40%;
+  left: 56%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(22) {
+  top: 27%;
+  left: 15%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(23) {
+  top: 10%;
+  left: 39%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(24) {
+  top: 47%;
+  left: 47%;
+  animation: animate 15s linear infinite;
+}
+.wrapper section:nth-child(25) {
+  top: 97%;
+  left: 87%;
+  animation: animate 13s linear infinite;
+}
+.wrapper section:nth-child(26) {
+  top: 98%;
+  left: 30%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(27) {
+  top: 95%;
+  left: 10%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(28) {
+  top: 81%;
+  left: 76%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(29) {
+  top: 44%;
+  left: 28%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(30) {
+  top: 30%;
+  left: 90%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(31) {
+  top: 8%;
+  left: 80%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(32) {
+  top: 4%;
+  left: 20%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(33) {
+  top: 17%;
+  left: 17%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(34) {
+  top: 38%;
+  left: 80%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(35) {
+  top: 68%;
+  left: 97%;
+  animation: animate 4s linear infinite;
+}
+.wrapper section:nth-child(36) {
+  top: 7%;
+  left: 50%;
+  animation: animate 8s linear infinite;
+}
+.wrapper section:nth-child(37) {
+  top: 9%;
+  left: 48%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(38) {
+  top: 2%;
+  left: 70%;
+  animation: animate 14s linear infinite;
+}
+.wrapper section:nth-child(39) {
+  top: 94%;
+  left: 90%;
+  animation: animate 12s linear infinite;
+}
+.wrapper section:nth-child(40) {
+  top: 73%;
+  left: 20%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(41) {
+  top: 95%;
+  left: 40%;
+  animation: animate 19s linear infinite;
+}
+.wrapper section:nth-child(42) {
+  top: 93%;
+  left: 8%;
+  animation: animate 13s linear infinite;
+}
+.wrapper section:nth-child(43) {
+  top: 91%;
+  left: 30%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(44) {
+  top: 89%;
+  left: 60%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(45) {
+  top: 93%;
+  left: 80%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(46) {
+  top: 6%;
+  left: 7%;
+  animation: animate 4s linear infinite;
+}
+.wrapper section:nth-child(47) {
+  top: 97%;
+  left: 50%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(48) {
+  top: 30%;
+  left: 50%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(49) {
+  top: 82%;
+  left: 86%;
+  animation: animate 19s linear infinite;
+}
+.wrapper section:nth-child(50) {
+  top: 39%;
+  left: 90%;
+  animation: animate 23s linear infinite;
+}
+.wrapper section:nth-child(51) {
+  top: 37%;
+  left: 59%;
+  animation: animate 13s linear infinite;
+}
+.wrapper section:nth-child(52) {
+  top: 29%;
+  left: 70%;
+  animation: animate 18s linear infinite;
+}
+.wrapper section:nth-child(53) {
+  top: 42%;
+  left: 80%;
+  animation: animate 14s linear infinite;
+}
+.wrapper section:nth-child(54) {
+  top: 80%;
+  left: 50%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(55) {
+  top: 55%;
+  left: 55%;
+  animation: animate 12s linear infinite;
+}
+.wrapper section:nth-child(56) {
+  top: 53%;
+  left: 60%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(57) {
+  top: 48%;
+  left: 9%;
+  animation: animate 7s linear infinite;
+}
+.wrapper section:nth-child(58) {
+  top: 17%;
+  left: 17%;
+  animation: animate 7s linear infinite;
+}
+.wrapper section:nth-child(59) {
+  top: 04%;
+  left: 04%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(60) {
+  top: 88%;
+  left: 55%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(61) {
+  top: 50%;
+  left: 05%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(62) {
+  top: 30%;
+  left: 03%;
+  animation: animate 10s linear infinite;
+}
+.wrapper section:nth-child(63) {
+  top: 40%;
+  left: 04%;
+  animation: animate 13s linear infinite;
+}
+.wrapper section:nth-child(64) {
+  top: 50%;
+  left: 05%;
+  animation: animate 14s linear infinite;
+}
+.wrapper section:nth-child(65) {
+  top: 60%;
+  left: 06%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(66) {
+  top: 70%;
+  left: 07%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(67) {
+  top: 80%;
+  left: 08%;
+  animation: animate 15s linear infinite;
+}
+.wrapper section:nth-child(68) {
+  top: 90%;
+  left: 09%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(69) {
+  top: 97%;
+  left: 97%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(70) {
+  top: 94%;
+  left: 65%;
+  animation: animate 7s linear infinite;
+}
+.wrapper section:nth-child(71) {
+  top: 69%;
+  left: 96%;
+  animation: animate 6s linear infinite;
+}
+.wrapper section:nth-child(72) {
+  top: 78%;
+  left: 87%;
+  animation: animate 9s linear infinite;
+}
+.wrapper section:nth-child(73) {
+  top: 85%;
+  left: 58%;
+  animation: animate 15s linear infinite;
+}
+.wrapper section:nth-child(74) {
+  top: 65%;
+  left: 58%;
+  animation: animate 11s linear infinite;
+}
+.wrapper section:nth-child(75) {
+  top: 43%;
+  left: 32%;
+  animation: animate 12s linear infinite;
 }
 @keyframes animate {
   0% {
