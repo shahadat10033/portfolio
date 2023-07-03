@@ -145,7 +145,7 @@ const Projects = () => {
             onMouseLeave={() => setIsArrow3Clicked(false)}
           >
             <figure style={{ height: "300px", overflow: "auto" }}>
-              <img src="tasteMeRestaurant.png" alt="" />
+              <img src="restaurant.png" alt="" />
             </figure>
             <div className="card-body text-white">
               <h2 className="text-center text-2xl ">A Deshi Restaurant</h2>

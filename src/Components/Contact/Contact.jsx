@@ -33,7 +33,7 @@ const Contact = () => {
 
       <div className="flex-col md:flex-row flex justify-center items-center">
         <div>
-          <Fade direction="left" duration={6000}>
+          <Fade direction="left" duration={6000} className="overflow-hidden">
             <Lottie
               animationData={lottieEmail}
               loop={true}
@@ -43,7 +43,7 @@ const Contact = () => {
           </Fade>
         </div>
         <div className="w-full lg:w-1/2   md:me-20">
-          <Fade direction="right" duration={6000}>
+          <Fade direction="right" duration={6000} className="overflow-hidden">
             <form
               ref={form}
               onSubmit={sendEmail}

@@ -10,7 +10,7 @@ import Footer from "../Footer/Footer";
 
 const Main = () => {
   return (
-    <div className="wrapper relative ">
+    <div className="wrapper relative overflow-hidden ">
       <Navbar></Navbar>
       <Banner></Banner>
       <About></About>
