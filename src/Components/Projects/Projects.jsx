@@ -17,7 +17,10 @@ const Projects = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 w-3/4 lg:w-1/2 mx-auto gap-10 md:gap-20">
         <Fade direction="left" duration={5000}>
-          <div className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white">
+          <div
+            className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white"
+            onMouseLeave={() => setIsArrow1Clicked(false)}
+          >
             <figure style={{ height: "300px", overflow: "auto" }}>
               <img src="wTongue.png" alt="" />
             </figure>
@@ -76,7 +79,10 @@ const Projects = () => {
           </div>
         </Fade>
         <Fade direction="right" duration={5000}>
-          <div className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white">
+          <div
+            className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white"
+            onMouseLeave={() => setIsArrow2Clicked(false)}
+          >
             <figure style={{ height: "300px", overflow: "auto" }}>
               <img src="kidsToyland.png" alt="" />
             </figure>
@@ -134,7 +140,10 @@ const Projects = () => {
           </div>
         </Fade>
         <Fade direction="left" duration={5000}>
-          <div className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white">
+          <div
+            className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white"
+            onMouseLeave={() => setIsArrow3Clicked(false)}
+          >
             <figure style={{ height: "300px", overflow: "auto" }}>
               <img src="tasteMeRestaurant.png" alt="" />
             </figure>
@@ -194,7 +203,10 @@ const Projects = () => {
           </div>
         </Fade>
         <Fade direction="right" duration={5000}>
-          <div className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white">
+          <div
+            className="card w-92 lg:w-80  bg-[#3A83F2] shadow-2xl shadow-black border border-white"
+            onMouseLeave={() => setIsArrow4Clicked(false)}
+          >
             <figure style={{ height: "300px", overflow: "auto" }}>
               <img src="jobOrbit.png" alt="" style={{ height: "400px" }} />
             </figure>
