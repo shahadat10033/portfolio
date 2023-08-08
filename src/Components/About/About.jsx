@@ -10,12 +10,12 @@ const About = () => {
       <div className="flex flex-col-reverse lg:flex-row justify-around items-center  border-white border-4 m-10 mt-20  ">
         {" "}
         <div className="lg:w-1/2 lg:p-10 px-4 p-4">
-          <Zoom duration={5000}>
+          <Zoom duration={3000}>
             {" "}
             <p className="text-xl text-justify lg:text-2xl font-semibold">
               I am a Front-end Developer with over 1 years of learning
               exprience. <br />
-              As a web developer experienced in , JavaScript, my goal is to
+              As a web developer i am experienced in JavaScript, my goal is to
               build captivating websites and applications. I am eager to learn
               and collaborate with a talented team to create user- friendly web
               solutions. By writing clean code and problem- solving effectively,
@@ -24,18 +24,18 @@ const About = () => {
             </p>
           </Zoom>
         </div>
-        <Zoom duration={5000}>
-          <div className="m-10">
+        <Zoom duration={3000}>
+          <div className="m-10 ">
             <img
               src="sdt.png"
               alt=""
-              className=" border border-8 border-white rounded-full  bg-black"
+              className=" border border-8 border-white rounded-full  bg-black hover:scale-110 duration-500 hover:bg-white"
             />
             <div className="flex pt-4 justify-center">
               <a
                 target="blank"
                 href="https://www.facebook.com/mdshahadat2"
-                className="pe-5"
+                className="pe-5 hover:scale-125 duration-500 "
               >
                 <img
                   src="fb.png"
@@ -46,7 +46,7 @@ const About = () => {
               <a
                 target="blank"
                 href="https://github.com/shahadat10033"
-                className="pe-5"
+                className="pe-5 hover:scale-125 duration-500 "
               >
                 <img
                   src="github.png"
@@ -57,7 +57,7 @@ const About = () => {
               <a
                 target="blank"
                 href="https://www.linkedin.com/"
-                className="pe-5"
+                className="pe-5 hover:scale-125 duration-500 "
               >
                 <img
                   src="linkedin.png"
@@ -65,7 +65,11 @@ const About = () => {
                   style={{ width: "30px", height: "30px", borderRadius: "50%" }}
                 />
               </a>
-              <a target="blank" href="https://www.instagram.com/shahadat10024/">
+              <a
+                target="blank"
+                href="https://www.instagram.com/shahadat10024/"
+                className="hover:scale-125 duration-500 "
+              >
                 <img
                   src="instra.png"
                   alt=""

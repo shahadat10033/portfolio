@@ -17,7 +17,7 @@ const Banner = () => {
       <div className="w-1/2 lg:w-1/4">
         <Bounce
           duration={4000}
-          className=" shadow-black border border-8 rounded-2xl shadow-2xl"
+          className=" shadow-black border border-8 rounded-2xl shadow-2xl  duration-500 hover:shadow-blue-400"
         >
           <img
             src="sdt.png"
@@ -64,7 +64,7 @@ const Banner = () => {
             functional and visually appealing websites and web applications.
           </p>
           <div>
-            <a href="shahadatResume.pdf" download={true}>
+            <a href="updatedResume.pdf" download={true}>
               <button
                 type="button"
                 className="text-white btn btn-success mt-4 lg:mt-6"
